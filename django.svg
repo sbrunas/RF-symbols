@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="10" y="10" width="76" height="44" rx="6"/>
+<line x1="10" y1="20" x2="86" y2="20"/>
+<circle cx="18" cy="15" r="1.5" fill="#111" stroke="none"/>
+<circle cx="24" cy="15" r="1.5" fill="#111" stroke="none"/>
+<circle cx="30" cy="15" r="1.5" fill="#111" stroke="none"/>
+<text x="48" y="40" text-anchor="middle" font-family="Arial" font-size="16" font-style="italic" fill="#111" stroke="none">dj</text>
+  </g>
+</svg>

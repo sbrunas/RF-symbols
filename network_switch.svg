@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="18" y="18" width="60" height="28" rx="4"/>
+<line x1="28" y1="26" x2="42" y2="26"/><line x1="54" y1="26" x2="68" y2="26"/>
+<line x1="35" y1="26" x2="35" y2="38"/><line x1="61" y1="26" x2="61" y2="38"/>
+<line x1="28" y1="38" x2="68" y2="38"/>
+<circle cx="28" cy="26" r="1.5" fill="#111"/><circle cx="42" cy="26" r="1.5" fill="#111"/><circle cx="54" cy="26" r="1.5" fill="#111"/><circle cx="68" cy="26" r="1.5" fill="#111"/>
+<circle cx="28" cy="38" r="1.5" fill="#111"/><circle cx="68" cy="38" r="1.5" fill="#111"/>
+<text x="48" y="58" font-size="8" font-family="Arial" fill="#111" stroke="none" text-anchor="middle">Switch</text>
+
+  </g>
+</svg>

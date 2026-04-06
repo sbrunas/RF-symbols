@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="10" y="16" width="26" height="32" rx="4"/>
+<rect x="60" y="16" width="26" height="32" rx="4"/>
+<path d="M36 32 h8"/>
+<path d="M52 32 h8"/>
+<path d="M44 24 l8 8 -8 8"/>
+<text x="23" y="35" text-anchor="middle" font-family="Arial" font-size="10" fill="#111" stroke="none">WEB</text>
+<text x="73" y="35" text-anchor="middle" font-family="Arial" font-size="12" fill="#111" stroke="none">API</text>
+  </g>
+</svg>

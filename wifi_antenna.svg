@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+
+<line x1="48" y1="52" x2="48" y2="30"/>
+<line x1="38" y1="52" x2="58" y2="52"/>
+<line x1="42" y1="56" x2="54" y2="56"/>
+<path d="M48 28 A10 10 0 0 1 58 18"/><path d="M48 28 A10 10 0 0 0 58 38"/>
+<path d="M48 28 A18 18 0 0 1 66 10"/><path d="M48 28 A18 18 0 0 0 66 46"/>
+<path d="M48 28 A26 26 0 0 1 74 2"/><path d="M48 28 A26 26 0 0 0 74 54"/>
+<text x="22" y="16" font-size="9" font-family="Arial" fill="#111" stroke="none">WiFi</text>
+
+  </g>
+</svg>

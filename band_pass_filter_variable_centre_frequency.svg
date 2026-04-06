@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 96 69"
+   width="96"
+   height="69"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="band_pass_filter_variable_centre_frequency.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.5"
+     inkscape:cx="48.789474"
+     inkscape:cy="40"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="690"
+     inkscape:window-y="1073"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5" />
+  <g
+     fill="none"
+     stroke="#111111"
+     stroke-width="2.4"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="g5">
+    <rect
+       x="18.947369"
+       y="3.3684211"
+       width="56"
+       height="40"
+       id="rect1" />
+    <path
+       d="m 27.010139,37.59999 c 2.975289,-2.115554 10.457226,-6.252712 13.432515,-6.252712 2.97529,0 5.950578,1.057776 8.925866,3.17333 2.97529,2.115554 5.950578,3.17333 8.925867,3.17333 2.97529,0 5.950578,-1.057776 8.925868,-3.17333"
+       id="path1-5-7"
+       style="stroke-width:1.653;stroke-dasharray:none"
+       sodipodi:nodetypes="csssc" />
+    <path
+       d="m 27.315789,30.357975 c 2.975289,-2.115554 10.457226,-6.252712 13.432515,-6.252712 2.97529,0 5.950578,1.057776 8.925866,3.17333 2.97529,2.115554 5.950578,3.17333 8.925867,3.17333 2.97529,0 5.950578,-1.057776 8.925868,-3.17333"
+       id="path1-5-7-1"
+       style="stroke-width:1.653;stroke-dasharray:none"
+       sodipodi:nodetypes="csssc" />
+    <path
+       d="m 27.052632,22.042186 c 2.975289,-2.115554 10.457226,-6.252712 13.432515,-6.252712 2.97529,0 5.950578,1.057776 8.925866,3.17333 2.97529,2.115554 5.950578,3.17333 8.925867,3.17333 2.97529,0 5.950578,-1.057776 8.925868,-3.17333"
+       id="path1-5-7-1-2"
+       style="stroke-width:1.653;stroke-dasharray:none"
+       sodipodi:nodetypes="csssc" />
+    <line
+       x1="38.936214"
+       y1="20.66379"
+       x2="44.748001"
+       y2="13.336212"
+       id="line2"
+       style="stroke-width:1.61992;stroke-dasharray:none" />
+    <line
+       x1="53.210526"
+       y1="41.169682"
+       x2="59.022312"
+       y2="33.842106"
+       id="line2-9"
+       style="stroke-width:1.61992;stroke-dasharray:none" />
+    <line
+       x1="34.978649"
+       y1="41.442406"
+       x2="63.968716"
+       y2="9.3997021"
+       id="line3"
+       style="stroke-width:1.531;stroke-dasharray:none" />
+    <line
+       x1="64.329742"
+       y1="9.1439409"
+       x2="63.064991"
+       y2="14.771849"
+       id="line4"
+       style="stroke-width:1.04051;stroke-dasharray:none" />
+    <line
+       x1="64.137115"
+       y1="9.1802645"
+       x2="58.496056"
+       y2="10.552905"
+       id="line4-2"
+       style="stroke-width:1.08525;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0;paint-order:stroke fill markers"
+       x="17.052631"
+       y="51.052631"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="17.052631"
+         y="51.052631">Band-pass filter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0;paint-order:stroke fill markers"
+       x="7.8240132"
+       y="58.196136"
+       id="text5-8"><tspan
+         sodipodi:role="line"
+         id="tspan5-8"
+         x="7.8240132"
+         y="58.196136" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0;paint-order:stroke fill markers"
+       x="10.479854"
+       y="58.262329"
+       id="text5-8-4"
+       inkscape:transform-center-x="-0.63157895"><tspan
+         sodipodi:role="line"
+         id="tspan5-8-5"
+         x="10.479854"
+         y="58.262329">with variable center</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:0;paint-order:stroke fill markers"
+       x="27.795641"
+       y="65.63076"
+       id="text5-8-4-8"
+       inkscape:transform-center-x="-0.63157895"><tspan
+         sodipodi:role="line"
+         id="tspan5-8-5-8"
+         x="27.795641"
+         y="65.63076">frequency</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.752986;stroke-opacity:0;paint-order:stroke fill markers"
+       id="path1"
+       sodipodi:type="arc"
+       sodipodi:cx="48.78883"
+       sodipodi:cy="26.57893"
+       sodipodi:rx="2.1720071"
+       sodipodi:ry="1.8704923"
+       sodipodi:start="0.52281972"
+       sodipodi:end="0.49340645"
+       sodipodi:arc-type="slice"
+       d="m 50.670689,27.512914 a 2.1720071,1.8704923 0 0 1 -2.95253,0.693462 2.1720071,1.8704923 0 0 1 -0.826934,-2.537496 2.1720071,1.8704923 0 0 1 2.940368,-0.73078 2.1720071,1.8704923 0 0 1 0.870177,2.526749 L 48.78883,26.57893 Z" />
+  </g>
+</svg>

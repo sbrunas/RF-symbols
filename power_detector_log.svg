@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    
+<line x1="8" y1="32" x2="22" y2="32"/>
+<rect x="22" y="18" width="44" height="28" rx="3"/>
+<path d="M30 40 L30 26 L36 26 L36 34 L42 34 L42 28 L48 28"/>
+<text x="51" y="36" font-family="Arial" font-size="10" fill="#111" stroke="none">log</text>
+<line x1="66" y1="32" x2="88" y2="32"/>
+
+  </g>
+</svg>

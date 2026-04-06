@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="16" y="16" width="64" height="32" rx="16"/>
+<path d="M34 32 C38 26, 42 26, 46 32 C50 38, 54 38, 58 32"/>
+<circle cx="34" cy="32" r="2"/><circle cx="58" cy="32" r="2"/>
+<line x1="26" y1="32" x2="30" y2="32"/><line x1="62" y1="32" x2="66" y2="32"/>
+<line x1="28" y1="28" x2="28" y2="36"/><line x1="64" y1="28" x2="64" y2="36"/>
+<text x="48" y="58" font-size="8" font-family="Arial" fill="#111" stroke="none" text-anchor="middle">Arduino</text>
+
+  </g>
+</svg>

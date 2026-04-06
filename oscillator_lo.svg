@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    
+<line x1="8" y1="32" x2="22" y2="32"/>
+<circle cx="44" cy="32" r="22"/>
+<path d="M28 32 C32 22, 36 22, 40 32 S48 42, 52 32 S60 22, 64 32"/>
+<line x1="66" y1="32" x2="88" y2="32"/>
+<text x="38" y="12" font-family="Arial" font-size="10" fill="#111" stroke="none">LO</text>
+
+  </g>
+</svg>

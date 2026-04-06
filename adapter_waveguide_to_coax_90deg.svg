@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
+  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+
+<line x1="8" y1="38" x2="20" y2="38"/>
+<line x1="8" y1="58" x2="20" y2="58"/>
+<rect x="20" y="34" width="20" height="28"/>
+<polygon points="40,34 58,40 58,56 40,62"/>
+<line x1="58" y1="48" x2="72" y2="48"/>
+<line x1="72" y1="48" x2="72" y2="28"/>
+<circle cx="72" cy="18" r="10"/>
+<circle cx="72" cy="18" r="3"/>
+<line x1="72" y1="8" x2="72" y2="4"/>
+<text x="14" y="16" font-size="8" font-family="Arial" fill="#111" stroke="none">WG→Coax 90°</text>
+
+  </g>
+</svg>
