@@ -5,7 +5,7 @@
    viewBox="0 0 80 120"
    version="1.1"
    id="svg5"
-   sodipodi:docname="attenuator.svg"
+   sodipodi:docname="attenuator_balanced.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -50,10 +50,17 @@
      id="line2"
      style="fill:none;stroke:#000000;stroke-width:2.98803;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
   <line
-     x1="65.266273"
-     y1="54.61842"
-     x2="15.194252"
-     y2="54.61842"
+     x1="74.438805"
+     y1="20.671051"
+     x2="5.8243475"
+     y2="20.671051"
      id="line4"
-     style="fill:none;stroke:#000000;stroke-width:2.807;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#000000;stroke-width:3.28588;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <line
+     x1="74.125816"
+     y1="90.577148"
+     x2="5.5113597"
+     y2="90.577148"
+     id="line4-9"
+     style="fill:none;stroke:#000000;stroke-width:3.28588;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

@@ -1,12 +1,107 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" width="96" height="64">
-  <g fill="none" stroke="#111" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
-
-<rect x="18" y="12" width="60" height="40" rx="4"/>
-<line x1="10" y1="18" x2="18" y2="18"/><line x1="10" y1="26" x2="18" y2="26"/><line x1="10" y1="34" x2="18" y2="34"/><line x1="10" y1="42" x2="18" y2="42"/>
-<line x1="78" y1="18" x2="86" y2="18"/><line x1="78" y1="26" x2="86" y2="26"/><line x1="78" y1="34" x2="86" y2="34"/><line x1="78" y1="42" x2="86" y2="42"/>
-<circle cx="48" cy="32" r="10"/>
-<path d="M42 32 h12 M48 26 v12"/>
-<text x="26" y="20" font-family="Arial" font-size="9" fill="#111" stroke="none">µC</text>
-
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 96 64"
+   width="96"
+   height="64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="microcontroller.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="9.5"
+     inkscape:cx="48.052632"
+     inkscape:cy="32"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="690"
+     inkscape:window-y="1073"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <rect
+     x="18"
+     y="12"
+     width="60"
+     height="40"
+     rx="4"
+     id="rect1"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="10"
+     y1="18"
+     x2="18"
+     y2="18"
+     id="line1"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="10"
+     y1="26"
+     x2="18"
+     y2="26"
+     id="line2"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="10"
+     y1="34"
+     x2="18"
+     y2="34"
+     id="line3"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="10"
+     y1="42"
+     x2="18"
+     y2="42"
+     id="line4"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="78"
+     y1="18"
+     x2="86"
+     y2="18"
+     id="line5"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="78"
+     y1="26"
+     x2="86"
+     y2="26"
+     id="line6"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="78"
+     y1="34"
+     x2="86"
+     y2="34"
+     id="line7"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <line
+     x1="78"
+     y1="42"
+     x2="86"
+     y2="42"
+     id="line8"
+     style="fill:none;stroke:#111111;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round" />
+  <text
+     x="26"
+     y="20"
+     font-family="Arial"
+     font-size="9px"
+     fill="#111111"
+     stroke="none"
+     id="text8"
+     style="stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round">µC</text>
 </svg>
