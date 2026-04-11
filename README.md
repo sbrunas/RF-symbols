@@ -146,9 +146,9 @@ Example structure:
 
 ```text
 .
-├── rf_symbols_drawio_v7/
+├── rf_symbols_drawio_v5/
 │   ├── *.svg
-│   ├── RF_Symbols_DrawIO_Library_v7.xml
+│   ├── RF_Symbols_DrawIO_Library_v5.xml
 │   └── preview_sheet_v7_addition.png
 ├── electronic_filter_symbols_svg/
 │   ├── *.svg
